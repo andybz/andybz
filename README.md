@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I design, developer, and maintain websites for all types of clients. With over 15+ years experience in the industry, it's safe to say you'll be able to count on me to get the job done.
+
 <!--
 **andybz/andybz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
