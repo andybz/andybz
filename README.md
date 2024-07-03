@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I design, develope, and maintain websites for all types of clients. With over 15+ years experience in the industry, it's safe to say you'll be able to count on me to get the job done.
+I design, develop, and maintain websites for all types of clients. With over 15+ years experience in the industry, it's safe to say you'll be able to count on me to get the job done.
 I am also clasically trained as a graphic designer and have a passion for photography. Holler if you need some assistance!
 
 <!--
