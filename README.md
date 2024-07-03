@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I design, develop, and maintain websites for all types of clients. With over 15+ years experience in the industry, it's safe to say you'll be able to count on me to get the job done.
-I am also clasically trained as a graphic designer and have a passion for photography. Holler if you need some assistance!
+I design, develop, and maintain websites for all types of clients. With over 18+ years experience in the industry, it's safe to say you'll be able to count on me to get the job done.
+I am also classically trained as a graphic designer and have a passion for photography. Holler if you need some assistance!
 
 <!--
 **andybz/andybz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
